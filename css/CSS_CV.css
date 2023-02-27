@@ -1,0 +1,37 @@
+body {
+
+    background-color: whitesmoke;
+        color: black;
+        font-size: 15px;
+        font-family: 'Montserrat', sans-serif;   
+}
+
+.container{
+
+}
+.left{
+      text-align:center;
+    float: left;
+
+}
+
+.right{
+
+   margin:200 px; 
+   display:inline-block;
+   
+}
+
+.center{
+    float: right;
+    
+}
+
+ 
+p.subtitulo {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    font-size: 20px;
+  
+}
